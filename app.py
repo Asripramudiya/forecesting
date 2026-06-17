@@ -165,10 +165,6 @@ if submit:
             f"""
             Forecast periode **{start_period} sampai {end_period}**
 
-            • Total Forecast Qty : {total_qty:,.0f}
-
-            • Total Forecast Revenue : Rp {total_revenue:,.0f}
-
             • Revenue tertinggi diperkirakan terjadi pada
               **{highest_rev['Date'].strftime('%B %Y')}**
 
