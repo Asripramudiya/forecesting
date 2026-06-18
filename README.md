@@ -54,6 +54,4 @@ http://localhost:8501
 
 Buka browser dan akses:
 
-```text
 https://forecesting-bvsntka37jaz4ftrivppq7.streamlit.app/
-```
